@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @diegorosas19
-- 👀 I’m interested in Dev Front-End
-- 🌱 I’m currently learning Algoritmos/Logica de Programação
+- 👋 Hi, I’m @diegorosas19 and i'm self-taught in programming.
+- 👀 I’m interested in Dev Front-End.
+- 🌱 I’m currently learning Algoritmos/Logica de Programação.
 - 📫 How to reach me ... Intagram: @diegoroas19 ou 
                          E-mail: diegorosas19@gmail.com 
 <!---
