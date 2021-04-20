@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @diegorosas19 #
+# 👋 Hi, I’m @Diego-rosas #
 - i'm self-taught in programming.
 - 👀 I’m interested in Dev Front-End.
 - 🌱 I’m currently learning Algoritmos/Logica de Programação.
