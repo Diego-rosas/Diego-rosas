@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Diego Rosas #
-- i'm self-taught in programming.
-- 👀 I’m interested in Dev Front-End.
-- 🌱 I’m currently learning Algoritmos/Logica de Programação.
+- 👀 I’m interested in desenvolvimento de sistemas.
+- 🌱 I’m currently learning Análise e Desenvolvimento de Sistemas.
 - 📫 How to reach me ... Intagram: @diegoroas19 ou 
                          E-mail: diegorosas19@gmail.com 
 <!---
