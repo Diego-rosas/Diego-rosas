@@ -9,7 +9,7 @@
 
 
 
-![Diego's github stats](https://github-readme-stats.vercel.app/api?username=Diego-rosas&show_icons=true&theme=radical)
+![Diego's github stats](https://github-readme-stats.vercel.app/api?username=Diego-rosas&show_icons=true&theme=tokyonight)
 
 [![GitHub Followers](https://img.shields.io/github/followers/Diego-rosas?style=flat&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/OtacilioN)
 [![Profile Views Counter](https://komarev.com/ghpvc/?username=Diego-rosas&color=blue)](https://github.com/antonkomarev/github-profile-views-counter)
